@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 24 00:28:51 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0185-dfff-550e-000001551400 
+on database directory memory:/Users/vatsalnanda/Downloads/course-api-data-final/b8d6c5a2-1e13-4513-984d-ff2ca85c8947 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/Users/vatsalnanda/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.5+8
+user.dir=/Users/vatsalnanda/Downloads/course-api-data-final
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.6.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
